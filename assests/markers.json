@@ -1,0 +1,604 @@
+{
+  "marker": {
+    "marker1":{
+      "Lat": 19.04449176,
+      "Long": 72.81998919,
+      "Name": "Fr. Agnel Ashram",
+      "color": "red"
+    },
+    "marker2":{
+      "Lat": 19.04373939,
+      "Long": 72.81921663,
+      "Name": "Taj Lands End",
+      "color": "green"
+    },
+    "marker3":{
+      "Lat": 19.04192072,
+      "Long": 72.8183735,
+      "Name": "Bandra Fort",
+      "color": "yellow"
+    },
+    "marker4":{
+      "Lat": 19.04470546,
+      "Long": 72.81893847,
+      "Name": "Bus stop, Fr. Agnel Ashram",
+      "color": "red"
+    },
+    "marker5":{
+      "Lat": 19.04570267,
+      "Long": 72.81931136,
+      "Name": "Cafe Sea Side",
+      "color": "green"
+    },
+    "marker6":{
+      "Lat": 19.04650447,
+      "Long": 72.82240441,
+      "Name": "Mount Mary Church",
+      "color": "yellow"
+    },
+    "marker7":{
+      "Lat": 19.04683293,
+      "Long": 72.81986179,
+      "Name": "GM Modular Park",
+      "color": "red"
+    },
+  "marker8":{
+    "Lat": 19.09753086,
+    "Long": 72.82647913,
+    "Name": "Juhu Beach",
+    "color": "green"
+  },
+  "marker9":{
+    "Lat": 19.09543984,
+    "Long": 72.83251943,
+    "Name": "Juhu Airport",
+    "color": "yellow"
+  },
+  "marker10":{
+    "Lat": 19.07425755,
+    "Long": 72.85244788,
+    "Name": "Mumbai University",
+    "color": "red"
+  },
+  "marker11":{
+    "Lat": 19.07703554,
+    "Long": 72.85107199,
+    "Name": "Grand Hyatt Hotel",
+    "color": "green"
+  },
+  "marker12":{
+    "Lat": 19.10217327,
+    "Long": 72.82616004,
+    "Name": "JW Mariott",
+    "color": "yellow"
+  },
+  "marker13":{
+    "Lat": 19.09946036,
+    "Long": 72.84399763,
+    "Name": "Vile Parle Railway stn",
+    "color": "red"
+  },
+  "marker14":{
+    "Lat": 19.08166154,
+    "Long": 72.84155673,
+    "Name": "Santacruz stn",
+    "color": "green"
+  },
+  "marker15":{
+    "Lat": 19.05409791,
+    "Long": 72.84123428,
+    "Name": "Bandra stn",
+    "color": "yellow"
+  },
+  "marker16":{
+    "Lat": 19.02699808,
+    "Long": 72.8379718,
+    "Name": "Shivaji Maharaj Park",
+    "color": "red"
+  },
+  "marker17":{
+    "Lat": 19.02402796,
+    "Long": 72.81679366,
+    "Name": "Worli Fort",
+    "color": "green"
+  },
+  "marker18":{
+    "Lat": 18.99053577,
+    "Long": 72.81497825,
+    "Name": "Nehru planetarium",
+    "color": "yellow"
+  },
+  "marker19":{
+    "Lat": 18.98437509,
+    "Long": 72.8201615,
+    "Name": "Mahalaksmi Race Course",
+    "color": "red"
+  },
+  "marker20":{
+    "Lat": 18.95402919,
+    "Long": 72.8144699,
+    "Name": "Girgaon Chowpatty",
+    "color": "green"
+  },
+  "marker21":{
+    "Lat": 18.95658948,
+    "Long": 72.80500744,
+    "Name": "Hanging Gardens",
+    "color": "yellow"
+  },
+  "marker22":{
+    "Lat": 18.92222524,
+    "Long": 72.83461401,
+    "Name": "Gateway of India",
+    "color": "red"
+  },
+  "marker23":{
+    "Lat": 18.93887704,
+    "Long": 72.82566353,
+    "Name": "Wankhede Stadium",
+    "color": "green"
+  },
+  "marker24":{
+    "Lat": 18.9407618,
+    "Long": 72.82528222,
+    "Name": "MU Ground",
+    "color": "yellow"
+  },
+  "marker25":{
+    "Lat": 19.02520367,
+    "Long": 72.84169462,
+    "Name": "BBQ Nation, Dadar",
+    "color": "red"
+  },
+  "marker26":{
+    "Lat": 19.01640495,
+    "Long": 72.83008589,
+    "Name": "Siddhivinayak Temple",
+    "color": "green"
+  },
+  "marker27":{
+    "Lat": 19.04331892,
+    "Long": 72.84071213,
+    "Name": "Mahim Church",
+    "color": "yellow"
+  },
+  "marker28":{
+    "Lat": 19.03770518,
+    "Long": 72.90715472,
+    "Name": "Mahalaksmi Temple",
+    "color": "red"
+  },
+  "marker29":{
+    "Lat": 19.22392112,
+    "Long": 72.84863331,
+    "Name": "Zudio, Borivali",
+    "color": "green"
+  },
+  "marker30":{
+    "Lat": 19.20372243,
+    "Long": 72.8595603,
+    "Name": "Growel's 101 Mall",
+    "color": "yellow"
+  },
+  "marker31":{
+    "Lat": 19.28951052,
+    "Long": 72.86692522,
+    "Name": "Vardhaman Fantasy, Mira Rd",
+    "color": "red"
+  },
+  "marker32":{
+    "Lat": 19.13331022,
+    "Long": 72.91322981,
+    "Name": "IIT Bombay",
+    "color": "green"
+  },
+  "marker33":{
+    "Lat": 19.29651793,
+    "Long": 72.84881495,
+    "Name": "Maxus Mall, Mira Bhayandar",
+    "color": "yellow"
+  },
+  "marker34":{
+    "Lat": 19.30089235,
+    "Long": 72.87778281,
+    "Name": "Seven Eleven Club, Mira Rd",
+    "color": "red"
+  },
+  "marker35":{
+    "Lat": 19.28521681,
+    "Long": 72.86194704,
+    "Name": "Wockhardt Hospitals, Mira Rd",
+    "color": "green"
+  },
+  "marker36":{
+    "Lat": 19.28448768,
+    "Long": 72.8632345,
+    "Name": "Rassaz Multiplex, Mira Rd",
+    "color": "yellow"
+  },
+  "marker37":{
+    "Lat": 19.12679475,
+    "Long": 72.90476353,
+    "Name": "Powai Lake",
+    "color": "red"
+  },
+  "marker38":{
+    "Lat": 19.13068956,
+    "Long": 72.86701627,
+    "Name": "Mahakali Caves",
+    "color": "green"
+  },
+  "marker39":{
+    "Lat": 19.0550429,
+    "Long": 72.85109591,
+    "Name": "Jio World Drive",
+    "color": "yellow"
+  },
+  "marker40":{
+    "Lat": 19.03517521,
+    "Long": 72.87545078,
+    "Name": "RTO Mumbai East-1",
+    "color": "red"
+  },
+  "marker41":{
+    "Lat": 19.0065882,
+    "Long": 72.82658471,
+    "Name": "IKEA Worli City Store",
+    "color": "green"
+  },
+  "marker42":{
+    "Lat": 18.97975842,
+    "Long": 72.8348629,
+    "Name": "Veermata Jijabai Bhosale Udyan and Zoo",
+    "color": "yellow"
+  },
+  "marker43":{
+    "Lat": 19.2835155,
+    "Long": 72.87812613,
+    "Name": "GCC Club, Mira Rd",
+    "color": "red"
+  },
+  "marker44":{
+    "Lat": 19.24458305,
+    "Long": 72.8556814,
+    "Name": "St. Francis Institute of Technology, Borivali",
+    "color": "green"
+  },
+  "marker45":{
+    "Lat": 19.22780806,
+    "Long": 72.85611056,
+    "Name": "Indraprastha Shopping Center, Borivali",
+    "color": "yellow"
+  },
+  "marker46":{
+    "Lat": 19.22476893,
+    "Long": 72.85405062,
+    "Name": "Pantaloons, Borivali",
+    "color": "red"
+  },
+  "marker47":{
+    "Lat": 19.23258951,
+    "Long": 72.82847308,
+    "Name": "Maxus Cinemas, Borivali",
+    "color": "green"
+  },
+  "marker48":{
+    "Lat": 18.97145768,
+    "Long": 72.82210342,
+    "Name": "Maratha Mandir Theatre",
+    "color": "yellow"
+  },
+  "marker49":{
+    "Lat": 18.96269261,
+    "Long": 72.83375241,
+    "Name": "JJ Hospital",
+    "color": "red"
+  },
+  "marker50":{
+    "Lat": 19.18549829,
+    "Long": 72.83443831,
+    "Name": "Infiniti Mall, Malad",
+    "color": "green"
+  },
+  "marker51":{
+    "Lat": 19.19830584,
+    "Long": 72.82701395,
+    "Name": "Atharva College Of Engineering, Malad",
+    "color": "yellow"
+  },
+  "marker52":{
+    "Lat": 19.18262051,
+    "Long": 72.83486746,
+    "Name": "Goregaon Sports Club",
+    "color": "red"
+  },
+  "marker53":{
+    "Lat": 19.17392766,
+    "Long": 72.8605168,
+    "Name": "Oberoi Mall, Goregaon",
+    "color": "green"
+  },
+  "marker54":{
+    "Lat": 19.19860118,
+    "Long": 72.79652171,
+    "Name": "Marve Beach",
+    "color": "yellow"
+  },
+  "marker55":{
+    "Lat": 19.17739549,
+    "Long": 72.79568167,
+    "Name": "Aksa Beach",
+    "color": "red"
+  },
+  "marker56":{
+    "Lat": 19.14986088,
+    "Long": 72.78884264,
+    "Name": "Madh Island",
+    "color": "green"
+  },
+  "marker57":{
+    "Lat": 19.13450305,
+    "Long": 72.79545744,
+    "Name": "Madh Fort",
+    "color": "yellow"
+  },
+  "marker58":{
+    "Lat": 19.12952468,
+    "Long": 72.83604314,
+    "Name": "Decathlon Sports Andheri",
+    "color": "red"
+  },
+  "marker59":{
+    "Lat": 19.15766663,
+    "Long": 72.84561252,
+    "Name": "MovieMax - Goregaon West",
+    "color": "green"
+  },
+  "marker60":{
+    "Lat": 19.13917673,
+    "Long": 72.85709754,
+    "Name": "Jogeshwari Caves",
+    "color": "yellow"
+  },
+  "marker61":{
+    "Lat": 19.11359698,
+    "Long": 72.85520061,
+    "Name": "Hindustan Unilever Limited, Andheri(E)",
+    "color": "red"
+  },
+  "marker62":{
+    "Lat": 19.09617314,
+    "Long": 72.84010943,
+    "Name": "Nanavati Max Super Speciality Hospital, Vile Parle",
+    "color": "green"
+  },
+  "marker63":{
+    "Lat": 19.08778816,
+    "Long": 72.83112538,
+    "Name": "SNDT Women's University, Santacruz(W)",
+    "color": "yellow"
+  },
+  "marker64":{
+    "Lat": 19.08223549,
+    "Long": 72.83568657,
+    "Name": "Podar International School",
+    "color": "red"
+  },
+  "marker65":{
+    "Lat": 19.06663543,
+    "Long": 72.85935289,
+    "Name": "AVM School Bandra(East)",
+    "color": "green"
+  },
+  "marker66":{
+    "Lat": 18.99171899,
+    "Long": 72.83711583,
+    "Name": "Lalbaugcha Raja",
+    "color": "yellow"
+  },
+  "marker67":{
+    "Lat": 18.95816173,
+    "Long": 72.83212917,
+    "Name": "Shalimar Restaurant",
+    "color": "red"
+  },
+  "marker68":{
+    "Lat": 19.06003404,
+    "Long": 72.82109524,
+    "Name": "Joggers Park, Bandra(W)",
+    "color": "green"
+  },
+  "marker69":{
+    "Lat": 19.07123484,
+    "Long": 72.8260362,
+    "Name": "Candies, Pali Hill",
+    "color": "yellow"
+  },
+  "marker70":{
+    "Lat": 19.05178219,
+    "Long": 72.82882246,
+    "Name": "Lilavati Hospital And Research Centre, Bandra",
+    "color": "red"
+  },
+  "marker71":{
+    "Lat": 19.05174708,
+    "Long": 72.83216597,
+    "Name": "Hotel Rangsharda",
+    "color": "green"
+  },
+  "marker72":{
+    "Lat": 19.10230518,
+    "Long": 72.8261105,
+    "Name": "JW Marriott Mumbai Juhu",
+    "color": "yellow"
+  },
+  "marker73":{
+    "Lat": 19.12171679,
+    "Long": 72.8233614,
+    "Name": "Rajiv Gandhi Institute of Technology",
+    "color": "red"
+  },
+  "marker74":{
+    "Lat": 19.12589368,
+    "Long": 72.83588097,
+    "Name": "Bhavan's College",
+    "color": "green"
+  },
+  "marker75":{
+    "Lat": 18.93970986,
+    "Long": 72.83543819,
+    "Name": "CSMT station",
+    "color": "yellow"
+  },
+  "marker76":{
+    "Lat": 18.93524503,
+    "Long": 72.82717761,
+    "Name": "Churchgate station",
+    "color": "red"
+  },
+  "marker77":{
+    "Lat": 18.93113587,
+    "Long": 72.8303373,
+    "Name": "Bombay High Court",
+    "color": "green"
+  },
+  "marker78":{
+    "Lat": 18.9276346,
+    "Long": 72.82695771,
+    "Name": "Mumbai Mantralaya",
+    "color": "yellow"
+  },
+  "marker79":{
+    "Lat": 18.9259702,
+    "Long": 72.81849266,
+    "Name": "Nariman Point",
+    "color": "red"
+  },
+  "marker80":{
+    "Lat": 18.9336452,
+    "Long": 72.84242572,
+    "Name": "Mumbai International Cruise Terminal",
+    "color": "green"
+  },
+  "marker81":{
+    "Lat": 19.26350001,
+    "Long": 72.87489868,
+    "Name": "Decathlon Sports Dahisar",
+    "color": "yellow"
+  },
+  "marker82":{
+    "Lat": 19.1790092,
+    "Long": 72.83477607,
+    "Name": "Joey's Pizza, Malad",
+    "color": "red"
+  },
+  "marker83":{
+    "Lat": 18.94934065,
+    "Long": 72.81996242,
+    "Name": "Taraporevala Aquarium",
+    "color": "green"
+  },
+  "marker84":{
+    "Lat": 18.97364683,
+    "Long": 72.8167351,
+    "Name": "RTO Mumbai Central",
+    "color": "yellow"
+  },
+  "marker85":{
+    "Lat": 19.24062067,
+    "Long": 72.83879175,
+    "Name": "Eskay Resorts",
+    "color": "red"
+  },
+  "marker86":{
+    "Lat": 19.29227048,
+    "Long": 72.8710716,
+    "Name": "V Power Gym, Mira Rd",
+    "color": "green"
+  },
+  "marker87":{
+    "Lat": 19.23624471,
+    "Long": 72.91742616,
+    "Name": "Sanjay Gandhi National Park",
+    "color": "yellow"
+  },
+  "marker88":{
+    "Lat": 19.17633104,
+    "Long": 72.86016377,
+    "Name": "Oberoi Mall, Goregaon",
+    "color": "red"
+  },
+  "marker89":{
+    "Lat": 19.17499511,
+    "Long": 72.83640169,
+    "Name": "Inorbit Mall Malad",
+    "color": "green"
+  },
+  "marker90":{
+    "Lat": 19.08868723,
+    "Long": 72.88883662,
+    "Name": "Phoenix Marketcity, Mumbai",
+    "color": "yellow"
+  },
+  "marker91":{
+    "Lat": 18.99668051,
+    "Long": 72.82389488,
+    "Name": "Phoenix Palladium",
+    "color": "red"
+  },
+  "marker92":{
+    "Lat": 19.2857879,
+    "Long": 72.78132152,
+    "Name": "Uttan Beach, Mira Bhayandar",
+    "color": "green"
+  },
+  "marker93":{
+    "Lat": 19.25210575,
+    "Long": 72.78285888,
+    "Name": "Gorai Beach",
+    "color": "yellow"
+  },
+  "marker94":{
+    "Lat": 19.20915862,
+    "Long": 72.85182676,
+    "Name": "Shatabdi Hospital",
+    "color": "red"
+  },
+  "marker95":{
+    "Lat": 19.18402493,
+    "Long": 72.85525563,
+    "Name": "Passport Seva Kendra",
+    "color": "green"
+  },
+  "marker96":{
+    "Lat": 19.22562096,
+    "Long": 72.80768273,
+    "Name": "Essel World",
+    "color": "yellow"
+  },
+  "marker97":{
+    "Lat": 19.22842538,
+    "Long": 72.80608208,
+    "Name": "Pagoda Temple",
+    "color": "red"
+  },
+  "marker98":{
+    "Lat": 19.16544651,
+    "Long": 72.83984521,
+    "Name": "Film City",
+    "color": "green"
+  },
+  "marker99":{
+    "Lat": 19.21817254,
+    "Long": 72.84108527,
+    "Name": "D Mart, Kandivali",
+    "color": "yellow"
+  },
+  "marker100":{
+    "Lat": 19.23481628,
+    "Long": 72.85392413,
+    "Name": "Croma, Borivali West",
+    "color": "red"
+  }
+}
+}

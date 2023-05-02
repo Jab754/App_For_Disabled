@@ -42,7 +42,11 @@ dependencies:
   firebase_auth: ^4.2.2
   cloud_firestore: ^4.5.1
   provider: ^6.0.5
-  
+  location: ^4.4.0
+  http: ^0.13.5
+  routing_client_dart: ^0.4.3
+  flutter_osm_plugin: ^0.53.4
+
 
 dev_dependencies:
   flutter_test:
@@ -68,7 +72,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-   - assests/images/
+   - assests/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

@@ -107,7 +107,7 @@ class _Register extends State<Register>{
    return Scaffold(
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
-          title: const Text('Registration Demo Page'),
+          title: const Text('Registration Page'),
           backgroundColor: Theme.of(context).primaryColor,
         ),
         body: Column(
