@@ -1,4 +1,4 @@
-# mynotes
+# Application for the disabled
 
 A new Flutter project.
 
